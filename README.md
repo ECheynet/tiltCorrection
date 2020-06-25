@@ -1,6 +1,8 @@
 # tiltCorrection
 Tilt-correction algorithms for 3D sonic anemometers
 
+[![View Sonic anemometer tilt correction algorithm on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/63655-sonic-anemometer-tilt-correction-algorithm)
+
 ## Summary
 
 The present submission includes some algorithm to correct tilt angle errors from sonic anemometers, including the method by Wilczak et al. [1]. Other methods are the double and triple rotation algorithm.
