@@ -2,6 +2,7 @@
 Tilt-correction algorithms for 3D sonic anemometers
 
 [![View Sonic anemometer tilt correction algorithm on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/63655-sonic-anemometer-tilt-correction-algorithm)
+[![DOI](https://zenodo.org/badge/274931158.svg)](https://zenodo.org/badge/latestdoi/274931158)
 
 ## Summary
 
